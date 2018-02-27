@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "swiftmailer/swiftmailer": "^6.0",
+        "bupt1987/html-parser": "^3.0"
+    }
+}
